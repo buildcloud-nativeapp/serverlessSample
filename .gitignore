@@ -1,0 +1,7 @@
+/Docs/*
+#.vscode/
+
+# Exclude temporary files:
+*.tmp
+# Word temporary
+~$*.doc*
