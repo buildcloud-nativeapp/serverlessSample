@@ -54,6 +54,7 @@ Include:
 ### 5. Build and Deploy the Front-end
 Refer to **Chapter 7. Integrate and Deploy the Front-end**
 Include:
+- 7.1 Add a new configuration (revisit 3.4 for local configuration)
 - 7.3 Create a production build
 - 7.4 Upload files to the static web site on Azure
 - 7.5 Test the web app on Azure
